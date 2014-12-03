@@ -1,0 +1,31 @@
+# NetBeans project folder
+/nbproject/
+
+# PhpStorm project folder
+/.idea/
+
+# Aptana project file
+.project
+
+#Hotels folder
+/images/hotels/
+
+# Windows
+# image file caches
+Thumbs.db
+ehthumbs.db
+# Folder config file
+Desktop.ini
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# OSX (Mac)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# compressed file
+*.rar
+*.zip
+*.tar
+*.gz
